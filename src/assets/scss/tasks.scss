@@ -1,0 +1,8 @@
+.borad-width {
+  min-width: 245px;
+}
+@media (max-width: 1024px) {
+  .borad-width {
+    min-width: 200px;
+  }
+}
